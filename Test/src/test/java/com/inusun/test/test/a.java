@@ -54,6 +54,8 @@ public class a {
             }
             System.out.println(str);
         } catch (IOException e) {
+            // TODO
+            System.out.println("");
         }
     }
 }
