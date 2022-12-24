@@ -8,7 +8,7 @@ public class _88 {
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < m; j++) {
                 if (nums2[j] > nums1[i]) {
-
+                    System.out.println();
                 }
             }
         }
